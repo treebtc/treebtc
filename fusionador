@@ -1,0 +1,4 @@
+stdout(comandoAmigo);
+start(cerrarListaDeFallos);
+stdout(listaDeFallos[]);
+debug.log("'\\config");
